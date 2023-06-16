@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MenTion</string>
+    <string name="started_title">Hello You!</string>
+    <string name="started_sub_title">
+        Nice to meet you, we all have mental health !
+        <br><b>Login</b> if you already have an account.</br>
+        <br><b>Register</b> to get started with the app.</br>
+    </string>
+    <string name="btn_register">SIGN UP</string>
+    <string name="btn_login">SIGN IN</string>
+    <string name="login_title">Sign in to Mention</string>
+    <string name="login_sub_title">
+        <font color="#29B9F0"><b>Login</b></font> if you already have an account.
+    </string>
+    <string name="login_email">Enter Email</string>
+    <string name="login_usernam">Email</string>
+    <string name="login_pasword">Password</string>
+    <string name="login_password">Enter Password</string>
+
+    <string name="login_havent_account">
+        Dont have an account yet? <font color="#29B9F0"><b>Sign up for MenTion</b></font>
+    </string>
+    <string name="register_title">Sign up for MenTion</string>
+    <string name="register_nama">Fullname</string>
+    <string name="register_name">Enter fullname</string>
+    <string name="register_email">Enter email</string>
+    <string name="txt_register_email">Email</string>
+    <string name="txt_register_no">Phone number</string>
+    <string name="register_no">Enter phone number</string>
+    <string name="txt_register_pwd">Password</string>
+    <string name="register_pwd">Enter Password</string>
+    <string name="txt_register_pwdk">Confirm password</string>
+    <string name="register_pwdk">Enter Confirm password</string>
+    <string name="login_haven_account">
+         Already have an account? <font color="#29B9F0"><b>Sign in for MenTion</b></font>
+    </string>
+    <string name="home_title">Hello WOrld</string>
+    <string name="btn_logout">LOGOUT</string>
+</resources>
